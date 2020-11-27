@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/mankc/linux/IMX6LL/linux/nxp_linux/include",
+                "/home/mankc/linux/IMX6LL/linux/nxp_linux/arch/arm/include",
+                "/home/mankc/linux/IMX6LL/linux/nxp_linux/arch/arm/include/generated"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}

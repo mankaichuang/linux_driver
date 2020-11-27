@@ -1,0 +1,1 @@
+cmd_/home/mankc/linux/IMX6LL/linux_Drivers/16_noblockio/noblockio.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/mankc/linux/IMX6LL/linux_Drivers/16_noblockio/noblockio.ko /home/mankc/linux/IMX6LL/linux_Drivers/16_noblockio/noblockio.o /home/mankc/linux/IMX6LL/linux_Drivers/16_noblockio/noblockio.mod.o

@@ -1,0 +1,1 @@
+cmd_/home/mankc/linux/IMX6LL/linux_Drivers/6_gpioled/gpioled.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/mankc/linux/IMX6LL/linux_Drivers/6_gpioled/gpioled.ko /home/mankc/linux/IMX6LL/linux_Drivers/6_gpioled/gpioled.o /home/mankc/linux/IMX6LL/linux_Drivers/6_gpioled/gpioled.mod.o
